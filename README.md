@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Full-Stack Developer · Process Automation · Python, Next.js & Oracle PL/SQL</b><br>
-  Turning manual, document-heavy work into reliable software, from Colombia 🇨🇴
+  Turning manual, document-heavy work into reliable software, from Colombia
 </p>
 
 <p align="center">
@@ -65,19 +65,3 @@ My rule of thumb: a tool isn't done until it **proves its own output**. Every ru
 > 🔒 Most of my day-to-day code lives in private repositories because it handles healthcare data. Happy to walk through the engineering decisions behind it in an interview.
 
 <p align="center"><i>Open to remote or hybrid roles and freelance automation projects · Spanish (native) · English (professional)</i></p>
-## Hi there 👋
-
-<!--
-**spartancreed22/spartancreed22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
