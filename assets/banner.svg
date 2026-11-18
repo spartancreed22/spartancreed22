@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-label="Terminal running an automation bot">
+  <style>
+    .bg { fill: #0d1117; }
+    .bar { fill: #161b22; }
+    .t { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 15px; fill: #c9d1d9; }
+    .p { fill: #7ee787; }
+    .c { fill: #79c0ff; }
+    .ok { fill: #3fb950; }
+    .dim { fill: #8b949e; }
+    .l { opacity: 0; animation: show 12s infinite; }
+    .l1 { animation-delay: 0.3s; }
+    .l2 { animation-delay: 1.4s; }
+    .l3 { animation-delay: 2.4s; }
+    .l4 { animation-delay: 3.4s; }
+    .l5 { animation-delay: 4.4s; }
+    .l6 { animation-delay: 5.4s; }
+    .l7 { animation-delay: 6.6s; }
+    @keyframes show {
+      0% { opacity: 0; }
+      2% { opacity: 1; }
+      90% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; fill: #7ee787; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect class="bg" width="800" height="260" rx="12"/>
+  <rect class="bar" width="800" height="34" rx="12"/>
+  <rect class="bar" y="22" width="800" height="12"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="400" y="22" text-anchor="middle" class="t dim" font-size="13">joshua@automation: ~</text>
+
+  <text x="24" y="66" class="t l l1"><tspan class="p">$</tspan> python bot.py <tspan class="c">--portal</tspan> third-party <tspan class="c">--input</tspan> batch.xlsx</text>
+  <text x="24" y="94" class="t l l2"><tspan class="ok">✓</tspan> session started · waiting for content, not for timeouts</text>
+  <text x="24" y="122" class="t l l3"><tspan class="ok">✓</tspan> records found · matched by person and date</text>
+  <text x="24" y="150" class="t l l4"><tspan class="ok">✓</tspan> every PDF validated before it is saved</text>
+  <text x="24" y="178" class="t l l5"><tspan class="ok">✓</tspan> audit log written · original file untouched</text>
+  <text x="24" y="206" class="t l l6"><tspan class="dim">→</tspan> safe to resume if interrupted</text>
+  <text x="24" y="236" class="t l l7"><tspan class="p">$</tspan> <tspan class="dim"># manual work, automated.</tspan> <tspan class="cursor">▌</tspan></text>
+</svg>
