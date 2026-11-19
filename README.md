@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-five-xi-64.vercel.app">🌐 Portfolio</a> ·
+  <a href="joshua-ortiz-dev.vercel.app/)">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/joshua-ort%C3%ADz-a785022b0/">💼 LinkedIn</a>
 </p>
 
